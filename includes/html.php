@@ -3,6 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>Achtung Panzer !</title>
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="shortcut icon" href="./assets/img/tank1.jpg" />
   </head>
   <body>
