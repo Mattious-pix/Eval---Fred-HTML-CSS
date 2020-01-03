@@ -1,12 +1,12 @@
 <form action="index.php?page=contact" method="post">
   <fieldset>
-    <legend>Donne-moi tes données</legend>
+    <legend>Öffne die Grenzen</legend>
   <div>
-    <label for="nom">Nom :</label>
+    <label for="nom">Name :</label>
     <input type="text" name="nom" id="nom" value="<?=$nom ?>" />
   </div>
   <div>
-    <label for="prenom">Prénom :</label>
+    <label for="prenom">Nachname :</label>
     <input type="text" name="prenom" id="prenom" value="<?=$prenom ?>" />
   </div>
   <div>
@@ -16,11 +16,11 @@
   </fieldset>
   <fieldset>
   <div>
-    <label for="msg">Message :</label>
+    <label for="msg">Eine Nachricht:</label>
     <textarea name="msg" id="msg"><?=$msg ?></textarea>
   </div>
   <div>
-    <input type="submit" value="Clique-moi grand fou !" />
+    <input type="submit" value="Drücken Sie den Auslöser" />
   </div>
   </fieldset>
   <input type="hidden" name="frmContact" />

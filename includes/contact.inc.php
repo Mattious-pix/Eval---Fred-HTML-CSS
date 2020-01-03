@@ -1,8 +1,8 @@
-<h1>Pour nous contacter</h1>
+<h1>Der Kontakt</h1>
 <?php
 if (isset($_POST['frmContact'])) {
-  $nom = checkInput($_POST['nom']);
-  $prenom = checkInput($_POST['prenom']);
+  $nom = checkInput($_POST['Name']);
+  $prenom = checkInput($_POST['Nachname']);
   $mail = checkInput($_POST['mail']);
   $msg = checkInput($_POST['msg']);
   $erreur = array();
