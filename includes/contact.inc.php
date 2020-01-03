@@ -1,3 +1,4 @@
+<h1>Drücken Sie den Auslöser</h1>
 <form method="POST" action="">
     <label>Name</label>
     <input type="text" name="nom"/><br/>
