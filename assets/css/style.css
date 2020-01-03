@@ -1,40 +1,60 @@
-@import url('reset.css');
+@import "reset.css";
 
-body {
-  background-color: #FFF;
-  color:#000;
-  font-size: 14px;
-  font-family: Verdana, Arial, sans-serif;
+body{
+    background: url("../image/space.gif");
+    background-size: 100% ;
+    font-family: Arial;
+    color: white;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+html{
+    height: 100%;
 }
 
-form {
-  background-color: darksalmon;
-  width: 600px;
-  padding: 20px;
+
+nav{
+
+    background-color: ThreeDDarkShadow;
+    opacity: 90%;
+    min-height: 93vh;
+    width:30%;
+
 }
 
-form div {
-  padding: 10px 0;
+.wrap{
+    margin-top:-90vh;
+    margin-left: 35%;
+    margin-right: auto;
+    width: 50%;
+
 }
 
-form div label {
-  float: left;
-  width: 240px;
-  padding: 0 10px 0 0;
-  text-align: right;
-}
+header nav ul li a{
 
-form div input[type="submit"] {
-  background-color: red;
-  color: yellow;
-  font-size: 1.5em;
-  margin: 0 0 0 250px;
-}
+    color: black;
+    line-height: 40px;
 
-form fieldset {
-  outline: 2px solid red;
 }
+ul{
 
-form textarea {
-  font-family: Verdana, Arial, sans-serif;
+    margin-top: -40vh;
+}
+.pied{
+    border-top: 5px solid darkgray;
+    background-color: darkgray;
+    opacity: 60%;
+    min-height: 7.1vh;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.pied p{
+
+    padding: 10px;
+
 }

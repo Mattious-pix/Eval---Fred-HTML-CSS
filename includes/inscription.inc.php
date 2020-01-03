@@ -1,4 +1,4 @@
-<h1>Inscriptions</h1>
+<h1>Inschriften</h1>
 <?PHP
 
 if(isset($_POST['submit'])){
