@@ -1,95 +1,100 @@
-  @import "reset.css";
+    @import "reset.css";
 
-  body{
-      background-size: 100% ;
-      font-family: Arial;
-      color: white;
-      min-height: 100%;
-      margin: 0;
-      padding: 0;
-      position: relative;
-
+  .navigation {
+  display: center;
   }
 
-  html{
-      height: 100%;
-  }
+    body{
+        background-size: 100% ;
+        font-family: Arial;
+        color: white;
+        min-height: 100%;
+        margin: 0;
+        padding: 0;
+        position: relative;
 
-  nav{
+    }
 
-      background-color: ThreeDDarkShadow;
-      opacity: 90%;
-      min-height: 93vh;
-      width:30%;
+    html{
+        height: 100%;
+    }
 
-  }
+    nav{
 
-  .wrap{
-      margin-top:-90vh;
-      margin-left: 35%;
-      margin-right: auto;
-      width: 50%;
+        background-color: ThreeDDarkShadow;
+        opacity: 90%;
+        min-height: 93vh;
+        width:30%;
 
-  }
+    }
 
-  header nav ul li a{
+    .wrap{
+        margin-top:-90vh;
+        margin-left: 35%;
+        margin-right: auto;
+        width: 50%;
 
-      color: black;
-      line-height: 40px;
+    }
 
-  }
+    header nav ul li a{
 
-  ul{
+        color: black;
+        line-height: 40px;
 
-      margin-top: -40vh;
-  }
-  .pied{
-      border-top: 5px solid darkgray;
-      background-color: darkgray;
-      opacity: 60%;
-      min-height: 7.1vh;
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
-  }
+    }
 
-  .pied p{
+    ul{
 
-      padding: 10px;
-  }
+        margin-top: -40vh;
+    }
 
-  /* CSS nav*/
-  #menu-deroulant, #menu-deroulant ul {
-      padding: 0;
-      margin: 0;
-      list-style: none;
-  }
-  #menu-deroulant {
-  /* on centre le menu dans la page */
-      text-align: center;
-  }
-  #menu-deroulant li {
-  /* on place les liens du menu horizontalement */
-      display: inline-block;
-  }
-  #menu-deroulant ul li {
-  /* on enlève ce comportement pour les liens du sous menu */
-      display: inherit;
-  }
-  #menu-deroulant a {
-      text-decoration: none;
-      display: block;
-      color:#000;
-  }
-  #menu-deroulant ul {
-      position: absolute;
-  /* on cache les sous menus complètement sur la gauche */
-      left: -999em;
-      text-align: left;
-      z-index: 1000;
-  }
-  #menu-deroulant li:hover ul {
-  /* Au survol des li du menu on replace les sous menus */
-      left: auto;
-  }
+    .pied{
+        border-top: 5px solid darkgray;
+        background-color: darkgray;
+        opacity: 60%;
+        min-height: 7.1vh;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+
+    .pied p{
+
+        padding: 10px;
+    }
+
+    /* CSS nav*/
+    #menu-deroulant, #menu-deroulant ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    #menu-deroulant {
+    /* on centre le menu dans la page */
+        text-align: center;
+    }
+    #menu-deroulant li {
+    /* on place les liens du menu horizontalement */
+        display: inline-block;
+    }
+    #menu-deroulant ul li {
+    /* on enlève ce comportement pour les liens du sous menu */
+        display: inherit;
+    }
+    #menu-deroulant a {
+        text-decoration: none;
+        display: block;
+        color:#000;
+    }
+    #menu-deroulant ul {
+        position: absolute;
+    /* on cache les sous menus complètement sur la gauche */
+        left: -999em;
+        text-align: left;
+        z-index: 1000;
+    }
+    #menu-deroulant li:hover ul {
+    /* Au survol des li du menu on replace les sous menus */
+        left: auto;
+    }
