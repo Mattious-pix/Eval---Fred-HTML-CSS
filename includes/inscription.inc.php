@@ -1,4 +1,6 @@
   <h1>Inschriften</h1>
+  <img src="./assets/img/Canon 75 mm.jpg">
+
   <?PHP
 
   if(isset($_POST['submit'])){

@@ -1,11 +1,11 @@
   <header>
-    <h1>Il était un petit Panzer I devenu Panther !</h1>
+    <h1 id="titre"> Il était un petit Panzer I devenu Panther !</h1>
   </header>
-    <nav>
-      <ul class="navigation">
+    <nav class="navigation">
+      <ul>
         <li><a href="index.php?page=Accueil" title="Page d'accueil">Willkommen</a></li>
       </ul>
-        <ul class="menu-deroulant">
+        <ul id="menu-deroulant">
           <li><a href="index.php?page=CV">Verrückte Geschichte</a>
             <ul>
               <li><a href="CV français">French CV</a></li>
