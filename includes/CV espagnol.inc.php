@@ -1,6 +1,6 @@
   <section>
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
-  <img src="./assets/img/Panzer II ausf B.jpg">
+  <img src="./assets/img/poilu.jpg">
       <address>
         <section class="versailles">En mi casa<br>
         <a href="mailto:alloallo@gmail;com.com"> contactos</a><br> <!--Le problème c'est de risquer de se faire spamer de merde-->
