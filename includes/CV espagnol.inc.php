@@ -2,9 +2,9 @@
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
   <img src="./assets/img/Panzer II ausf B.jpg">
       <address>
-        <section class="versailles">En mi casa<br/>
-        <a href="mailto:alloallo@gmail;com.com"> contactos</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
-        <a href="tel:+33622232425"> 06.22.23.24.25</a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
+        <section class="versailles">En mi casa<br>
+        <a href="mailto:alloallo@gmail;com.com"> contactos</a><br> <!--Le problème c'est de risquer de se faire spamer de merde-->
+        <a href="tel:+33622232425"> 06.22.23.24.25</a><br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
       </address>
         <h1 id="domaine esp">Dominio</h1>
         </header>
