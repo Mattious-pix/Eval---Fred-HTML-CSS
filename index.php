@@ -4,4 +4,3 @@
   require_once './includes/pdo.php';
 
   require './includes/eval.php';
-  require './includes/footer.php';
