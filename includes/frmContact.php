@@ -1,4 +1,3 @@
-<img src="./assets/img/Somua S-35.jpg">
   <form action="index.php?page=contact" method="post">
     <fieldset>
       <legend>Öffne die Grenzen</legend>
