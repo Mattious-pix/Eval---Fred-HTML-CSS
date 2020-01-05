@@ -16,8 +16,10 @@
   <body>
 
   <header role="header">
-
+<div>
     <h1 id="titre"> Il était un petit Panzer I devenu Panther !</h1>
+    <img src="./assets/img/Tigre.jpg">
+</div>
     <nav>
       <ul>
         <li class="accueil"><a id="pacc" href="index.php?page=Accueil" title="Page d'accueil">Willkommen</a></li>
@@ -87,7 +89,7 @@
 
         <p> Weight : 5.1kg </p>
         <p> Range : 150m </p>
-        <p> Penetration : 150m à 200m é_é</p>
+        <p> Penetration : 150m à 200m é_-_é</p>
     </div>
 </div>
 
@@ -103,3 +105,6 @@
 </body>
 </html>
 </footer>
+
+
+</div>
