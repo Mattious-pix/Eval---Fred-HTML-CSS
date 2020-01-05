@@ -2,13 +2,13 @@
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
   <img src="./assets/img/Panzer II ausf B.jpg">
       <address>
-        <section class="versailles">chez oim<br/>
-        <a href="mailto:alloallo@gmail;com.com"> contact</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
+        <section class="versailles">En mi casa<br/>
+        <a href="mailto:alloallo@gmail;com.com"> contactos</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
         <a href="tel:+33622232425"> 06.22.23.24.25</a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
       </address>
-        <h1>Poste-domaine</h1>
+        <h1 id="domaine esp">Dominio</h1>
         </header>
-      <h1>Ausbildung</h1> <!--Même si on met plusieurs H1, ca ne change rien à la formation de la page. Et en plus ca permet de refnorcer le référencement-->
+      <h1 id="exp univ esp">experiencias profesionales</h1> <!--Même si on met plusieurs H1, ca ne change rien à la formation de la page. Et en plus ca permet de refnorcer le référencement-->
       <div class=marge1>
       <ul>Référant Digital – N-Factory</ul>
         <li>09/2019-04/2020 – Stagiaire - Rouen- FRANCE</li>
@@ -24,19 +24,19 @@
         <ul>Master blablabla</ul>
           <li>2014-2016 Rouen - FRANCE</li>
       </div>
-      <h1>Kurs</h1>
+      <h1 id="prcr esp">Enseñanza</h1>
       <div class=marge5>
-        <ul> Grand gagnant de la belotte de Winchester. </ul>
+        <ul> Fue el primero chico que estaba en un restaurante desnudo en Paris </ul>
       </div>
       <div class=marge6>
-        <ul>Découvreur du remède contre les ongles incarnés</ul>
+        <ul>Hace doscientos años fue une grande Rey de Francia</ul>
       </div>
       <h1>Langues</h1>
         <ul>
-          <li>Français : maternelle</li>
-          <li>Anglais : Confirmé </li>
-          <li>Espagnol: Intermédiaire</li>
-          <li>Grec : Notion.</li>
+          <li>Frances : Mi vida !</li>
+          <li>Anglais : Para los bajos </li>
+          <li>espaÑol : Mi vida tambien</li>
+          <li>Griego : Que es ?</li>
           </ul>
       </div>
     </body>
