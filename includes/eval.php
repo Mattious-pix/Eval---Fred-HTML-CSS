@@ -24,8 +24,8 @@
 
         <li class="histoire"><a id="phist" href="index.php?page=CV">Verrückte Geschichte</a>
          <ul class="menu-deroulant">
-            <li><a id="frCV" href="CV français">French CV</a></li>
-            <li><a id="espCV" href="CV espagnol">CV espaÑol</a></li>
+            <li><a id="frCV" href="includes/CV français.inc.php">French CV</a></li>
+            <li><a id="espCV" href="includes/CV espagnol.inc.php">CV espaÑol</a></li>
          </ul>
         </li>
 
@@ -91,4 +91,4 @@
     </div>
 </div>
 
-<!--caractéristiques terminées-->
+<!--Fin caractéristiques-->

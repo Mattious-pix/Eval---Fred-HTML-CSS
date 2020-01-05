@@ -1,9 +1,10 @@
-  <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
+  <section>
+    <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
   <img src="./assets/img/Panzer II ausf B.jpg">
       <address>
-        <section class="versailles">Versailles<br/>
-        <a href="mailto:ed.deline90@gmail.com"> contact</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
-        <a href="tel:+33622279045"> 06.22.27.90.45</a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
+        <section class="versailles">chez oim<br/>
+        <a href="mailto:alloallo@gmail;com.com"> contact</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
+        <a href="tel:+33622232425"> 06.22.23.24.25</a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
       </address>
         <h1>Poste-domaine</h1>
         </header>
@@ -40,3 +41,4 @@
       </div>
     </body>
   </html>
+</section>
