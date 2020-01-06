@@ -1,5 +1,5 @@
   <h1>Drücken Sie den Auslöser</h1>
-  <img src="./assets/img/Somua S-35.jpg">
+  <img src="./assets/img/SomuaS-35.jpg"/>
   <form method="POST" action="">
       <label>Name</label>
       <input type="text" name="nom"/><br/>

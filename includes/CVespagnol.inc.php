@@ -1,7 +1,7 @@
   <section>
     <div>
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
-  <img src="./assets/img/poilu.jpg">
+  <img src="./assets/img/poilu.jpg" title="sldt esp"/>
     </div>
       <address>
         <section class="maisonCV">En mi casa<br>

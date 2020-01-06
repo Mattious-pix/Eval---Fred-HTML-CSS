@@ -1,5 +1,5 @@
   <h1>Inschriften</h1>
-  <img src="./assets/img/Canon 75 mm.jpg">
+  <img src="./assets/img/Canon75mm.jpg" title="canon inscr"/>
 
   <?PHP
 
