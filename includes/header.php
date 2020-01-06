@@ -1,5 +1,3 @@
-<body>
-
   <header role="header">
 <div>
     <h1 class="titre"> Il était un petit Panzer I devenu Panther !</h1>
