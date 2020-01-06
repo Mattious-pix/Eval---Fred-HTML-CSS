@@ -38,6 +38,7 @@
           <li>Griego : Que es ?</li>
           </ul>
       </div>
-    </body>
-  </html>
+      <div class="edlnCV">
+        <a href="./assets/doc/pdf/edlncv.pdf"> Aqui es el Curriculum !</a>
+      </div>
 </section>

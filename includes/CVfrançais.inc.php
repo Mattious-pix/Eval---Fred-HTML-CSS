@@ -39,6 +39,7 @@
           <li>Grec : Notion.</li>
         </ul>
       </div>
-    </body>
-  </html>
+      <div class="edlnCV">
+        <a href="./assets/doc/pdf/edlncv.pdf"> Want to know more ?</a>
+      </div>
   </section>

@@ -1,5 +1,5 @@
 <!--Phrase d'introduction-->
-
+<div class="wrap">
   <div class="contenu gnrl">
 
 <div>
@@ -50,6 +50,7 @@
         <p> Range : 150m </p>
         <p> Penetration : 150m à 200m é_-_é</p>
     </div>
+</div>
 </div>
 
 <!--Fin caractéristiques-->

@@ -1,3 +1,4 @@
+<div class="wrap">
   <h1>Drücken Sie den Auslöser</h1>
   <img src="./assets/img/SomuaS-35.jpg"/>
   <form method="POST" action="">
@@ -16,3 +17,4 @@
       <input type="submit" name="submit"/>
 
   </form>
+</div>
