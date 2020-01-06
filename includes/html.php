@@ -9,7 +9,7 @@
 <title>Achtung Panzer !</title>
 <link rel="shortcut icon" href="./assets/img/tank1.jpg" />
 
-<link rel="stylesheet" href="css/style.css"/>
+<link rel="stylesheet" href="./assets/css/style.css"/>
 
 </head>
 

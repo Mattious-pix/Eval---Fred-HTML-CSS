@@ -3,7 +3,7 @@
   <?php
   $year = date('Y');
 ?>
-<p>&copy; <?=$year ?> Klaus Duval Korpo</p>
+<p>&copy; <?=$year ?> Oberstleutnant Korpo</p>
 </footer>
 
 </body>
