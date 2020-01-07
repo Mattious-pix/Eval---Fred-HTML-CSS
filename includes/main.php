@@ -1,5 +1,5 @@
-  <main>
-    <?php
+<main>
+  <?php
 
   if(isset($_GET['page'])) {
     $page = $_GET['page'];
@@ -15,9 +15,9 @@
   if (in_array($page,$liste)) {
     require $page;
   }
-    else {
-      require "./includes/accueil.inc.php";
-    }
+  else {
+    require "./includes/accueil.inc.php";
+  }
 
-    ?>
-  </main>
+  ?>
+</main>

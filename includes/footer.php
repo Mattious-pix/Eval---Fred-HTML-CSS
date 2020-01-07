@@ -2,8 +2,8 @@
 <footer>
   <?php
   $year = date('Y');
-?>
-<p>&copy; <?=$year ?> Oberstleutnant Korpo</p>
+  ?>
+  <p>&copy; <?=$year ?> Oberstleutnant Korpo</p>
 </footer>
 
 </body>
