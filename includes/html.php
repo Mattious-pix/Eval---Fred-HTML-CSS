@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html lang="fr">
+  <html lang="fr">
 
-<head>
+    <head>
 
-  <meta charset="utf-8" />
+      <meta charset="utf-8" />
 
-<title>Achtung Panzer !</title>
-<link rel="shortcut icon" href="./assets/img/tank1.jpg" />
+        <title>Achtung Panzer !</title>
+          <link rel="shortcut icon" href="./assets/img/tank1.jpg" />
 
-<link rel="stylesheet" href="./assets/css/style.css"/>
+          <link rel="stylesheet" href="./assets/css/style.css"/>
 
-</head>
+    </head>
 
 <body>
 

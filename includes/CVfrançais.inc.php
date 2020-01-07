@@ -9,7 +9,6 @@
         <a href="tel:+33622232425"> 06.22.23.24.25 </a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
       </address>
         <h2 class="domaine">Poste-domaine</h2>
-        </header>
       <h2 class="exp">Ausbildung</h2> <!--Même si on met plusieurs H1, ca ne change rien à la formation de la page. Et en plus ca permet de refnorcer le référencement-->
       <div class=marge1>
       <ul>
