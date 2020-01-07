@@ -3,10 +3,11 @@
   <div class="gnrl1">
 
     <div class="chpprinc">
-      <h2 class="chp6">CHAPITRE VI :</h1>
+      <h1 class="chp6">CHAPITRE VI :</h1>
         <!---Mais qu'est ce donc que tout ceci ?--->
         <h2 class="princis"> Des principautés nouvelles acquises par les armes et par l’habileté de l’acquéreur.</h2>
-        <p class="textchp"> Qu’on ne s’étonne point si, en parlant de principautés tout à fait nouvelles de princes et d’État, j’allègue de très-grands exemples. Les hommes marchent presque toujours dans des sentiers déjà battus ; presque toujours ils agissent par imitation ; mais il ne leur est guère possible de suivre bien exactement les traces de celui qui les a précédés, ou d’égaler la vertu de celui qu’ils ont entrepris d’imiter. Ils doivent donc prendre pour guides et pour modèles les plus grands personnages, afin que, même en ne s’élevant pas au même degré de grandeur et de gloire, ils puissent en reproduire au moins le parfum. Ils doivent faire comme ces archers prudents, qui, jugeant que le but proposé est au delà de la portée de leur arc et de leurs forces, visent encore plus loin, pour que leur flèche arrive au point qu’ils désirent atteindre. Machiavel 'Le Prince' (1532).</p>
+        <blockquote class="textchp" cite="https://fr.wikisource.org/wiki/Le_Prince/Texte_entier" >
+      Qu’on ne s’étonne point si, en parlant de principautés tout à fait nouvelles de princes et d’État, j’allègue de très-grands exemples. Les hommes marchent presque toujours dans des sentiers déjà battus ; presque toujours ils agissent par imitation ; mais il ne leur est guère possible de suivre bien exactement les traces de celui qui les a précédés, ou d’égaler la vertu de celui qu’ils ont entrepris d’imiter. Ils doivent donc prendre pour guides et pour modèles les plus grands personnages, afin que, même en ne s’élevant pas au même degré de grandeur et de gloire, ils puissent en reproduire au moins le parfum. Ils doivent faire comme ces archers prudents, qui, jugeant que le but proposé est au delà de la portée de leur arc et de leurs forces, visent encore plus loin, pour que leur flèche arrive au point qu’ils désirent atteindre. <footer>Machiavel <cite>Le Prince (1532).</cite></footer></blockquote>
       </div>
 
       <!--------------------------------------->
@@ -15,7 +16,7 @@
 
       <div class="prsttn">
         <br>
-        <h1 class="caractech">Caractéristiques techniques !</h1>
+        <h2 class="caractech">Caractéristiques techniques !</h1>
 
         <div class="panzershreck">
           <link rel=stylesheet href="style.css" type="text/css">
@@ -25,7 +26,7 @@
 
         <!--Panzerkampfwagen-->
         <div class="Pzkwg">
-          <h1> Panzerkampfwagen</h1>
+          <h2> <mark>Panzerkampfwagen</mark></h1>
           <p>Ca veut dire : <br />TAAAANK !</p>
         </div>
 
