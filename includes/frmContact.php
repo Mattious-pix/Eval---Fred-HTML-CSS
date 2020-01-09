@@ -1,7 +1,8 @@
 <form action="index.php?page=contact" method="post">
+  <img src="./assets/img/omaha.gif" class="imgomh" title="omaha"/>
 
   <fieldset>
-    <legend>Öffne die Grenzen</legend>
+    <legend class="munition">Öffne die Grenzen</legend>
     <div>
       <label for="nom">Name :</label>
       <input type="text" name="nom" class="nom" value="<?=$nom ?>" />
@@ -18,8 +19,8 @@
       <label for="tel">Telefon :</label>
       <input type="tel" name="tel" class="tel" value="<?=$mail ?>" />
     </div>
-
   </fieldset>
+
   <fieldset>
     <div>
       <label for="msg">Eine Nachricht:</label>

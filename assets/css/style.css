@@ -5,8 +5,8 @@
     background: url(camouflage.jpg);
     position: relative;
     color : #FFF5EE;
-    background-repeat: space-repeat;
-
+    background-repeat: space;
+    background-size: 10%;
   }
 
   body::after {
@@ -31,14 +31,17 @@
 
 
   header h1 {
-    padding-top: 20px;
+    padding-top: 40px;
     font-weight: bold;
     text-align: center;
     font-size: 40px;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     color: #FFDAB9;
   }
 
+  nav ul li a{
+    font-size: 22px;
+  }
   #menu ul {
     margin:0;
     padding:0;
@@ -46,6 +49,7 @@
     text-align:center;
     display: flex;
   }
+
   #menu li {
     /*float:left;*/
     margin:auto;
@@ -78,92 +82,138 @@
   }
 
   /*--Accueil--!*/
+
   .chpprinc{
     margin-top: 80px;
-    border-width: 2px;
+    border-width: 4px;
     border-style:solid;
     border-color:black;
   }
+
   .chp6{
     text-align: center;
     font-size: 35px;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
   }
+
   .princis{
     text-align: center;
     font-size: 20px;
-    margin-top: 4px;
-    margin-bottom: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
+
   .textchp{
-    text-align: justify;
+    text-align: center;
     margin-top: 2px;
     line-height: 32px;
+    font-weight: bold;
   }
+
+  .textchp footer a{
+    font-weight: 900;
+  }
+
   .prsttn{
     margin-top: 50px;
   }
-  .caractech{
-  margin-bottom: 30px;
-  text-align: center;
-  font-size: 15px;
-  font-weight: bold;
-  color: #FFDAB9;
 
-  }
-  .panzershreck{
-    margin-left: 80px;
-    margin-top: 30px;
-  }
-  .ssttrpz{
+  .caractech{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
     color: #FFDAB9;
   }
-  img {
-    width: 700px;
-    margin-left: 3px;
+
+  div .panzershreck {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #FFDAB9;
   }
+
   div .panzershreck .ssttrpz{
-  font-size: 15px;
-  font-weight: bold;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
+
   div .Pzkwg h2{
-  font-weight: bold;
-  font-size: 20px;
-  margin-left: 80px;
-  margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 200px;
   }
+
   div .Pzkwg p{
-      font-size: 15px;
-      margin-left: 60px;
-      margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 180px;
+    margin-bottom: 10px;
   }
+
+  div .Pzkwg p a{
+    font-weight: bold;
+  }
+
   div .Pzrft h2{
-  font-size: 15px;
-  font-weight: bold;
-  font-size: 20px;
-  margin-left: 80px;
-  margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-bottom: 10px;
   }
 
   div .Pzrft p{
-      font-size: 15px;
-      margin-left: 60px;
-      margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 180px;
+    margin-bottom: 10px;
   }
 
   div .Pzrsch h2{
-  font-size: 15px;
-  font-weight: bold;
-  font-size: 20px;
-  margin-left: 80px;
-  margin-bottom: 10px;
-  }
-  div .Pzrsch p{
-    font-size: 15px;
-    font-size: 15px;
-    margin-left: 60px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 200px;
     margin-bottom: 10px;
   }
+
+  div .Pzrsch p{
+    font-size: 20px;
+    margin-left: 180px;
+    margin-bottom: 10px;
+  }
+
+ /*CVfrançais*/
+
+ .panther{
+   width: 40%;
+   height: 40%;
+ }
+
+ /*Cv espagnol*/
+
+ .sldt{
+   width: 30%;
+   height: 30%;
+ }
+  /*contact*/
+
+  .imgomh{
+    width: 40%;
+    height: 40%;
+  }
+
+  /*Inscription*/
+
+  .imghtch{
+    width: 30%;
+    height: 30%;
+  }
+
+  /*Mentions légales*/
+
+  .bordel{
+    font-size: 30px;
+  }
+  .fusee{
+    width:40%;
+    height: 40%;
