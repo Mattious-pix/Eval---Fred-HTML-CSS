@@ -12,8 +12,13 @@
     </div>
     <div>
       <label for="mail">e-mail :</label>
-      <input type="email" name="mail" class="mail" value="<?=$mail ?>" />
+      <input type="mail" name="mail" class="mail" value="<?=$mail ?>" />
     </div>
+    <div>
+      <label for="tel">Telefon :</label>
+      <input type="tel" name="tel" class="tel" value="<?=$mail ?>" />
+    </div>
+
   </fieldset>
   <fieldset>
     <div>

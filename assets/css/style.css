@@ -2,8 +2,11 @@
   @import url('font.css');
 
   body {
-    background-color: #78866b;
+    background: url(camouflage.jpg);
     position: relative;
+    color : #FFF5EE;
+    background-repeat: space-repeat;
+
   }
 
   body::after {
@@ -13,7 +16,7 @@
     background-repeat: no-repeat;
     background-position: top;
     margin-bottom: 20px;
-    opacity: 0.5;
+    opacity: 0.8;
     top: 0;
     left: 0;
     bottom: 0;
@@ -33,6 +36,7 @@
     text-align: center;
     font-size: 40px;
     margin-bottom: 25px;
+    color: #FFDAB9;
   }
 
   #menu ul {
@@ -55,9 +59,10 @@
     color:white;
     text-decoration:none;
     padding:5px;
+    color: #FFDAB9;
   }
   #menu li a:hover {
-    color:#2a2e12;
+    color:#CD853F;
   }
   #menu ul li ul {
     display:none;
@@ -99,31 +104,66 @@
     margin-top: 50px;
   }
   .caractech{
-  text-align: center;
   margin-bottom: 30px;
+  text-align: center;
   font-size: 15px;
   font-weight: bold;
+  color: #FFDAB9;
 
   }
   .panzershreck{
-    text-align: center;
+    margin-left: 80px;
     margin-top: 30px;
   }
-  img {
-    width: 650px;
+  .ssttrpz{
+    color: #FFDAB9;
   }
-div .panzershreck p{
+  img {
+    width: 700px;
+    margin-left: 3px;
+  }
+  div .panzershreck .ssttrpz{
   font-size: 15px;
   font-weight: bold;
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-.Pzkwg{
-  background-color: red;
-}
-.Pzrft{
-  background-color: blue;
-}
-.Pzrsch{
-  background-color: green;
-}
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  }
+  div .Pzkwg h2{
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-bottom: 10px;
+  }
+  div .Pzkwg p{
+      font-size: 15px;
+      margin-left: 60px;
+      margin-bottom: 10px;
+  }
+  div .Pzrft h2{
+  font-size: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-bottom: 10px;
+  }
+
+  div .Pzrft p{
+      font-size: 15px;
+      margin-left: 60px;
+      margin-bottom: 10px;
+  }
+
+  div .Pzrsch h2{
+  font-size: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-bottom: 10px;
+  }
+  div .Pzrsch p{
+    font-size: 15px;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+  }

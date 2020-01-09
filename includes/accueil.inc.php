@@ -19,20 +19,19 @@
         <h2 class="caractech">Caractéristiques techniques !</h1>
 
         <div class="panzershreck">
-          <link rel=stylesheet href="style.css" type="text/css">
-          <img src="./assets/img/Panzershreck.jpg"/>
-          <p> Ca envoi du lourd hein ! Feuer </p>
+          <img src="./assets/img/Panzershreck.jpg" class="imgpz"/>
+            <p class="ssttrpz"> Ca envoi du lourd hein ! Feuer </p>
         </div>
 
         <!--Panzerkampfwagen-->
         <div class="Pzkwg">
-          <h2> <mark>Panzerkampfwagen</mark></h1>
-          <p>Ca veut dire : <br />TAAAANK !</p>
+          <h2> <strong>Panzerkampfwagen</strong></h1>
+          <p>Ca veut dire : <a href="https://fr.wikipedia.org/wiki/Tank" target="_blank"> TANK !! </a></p>
         </div>
 
         <!--Panzerfaust-->
         <div class="Pzrft">
-          <h2> <mark> Panzerfaust </mark> </h2>
+          <h2> <strong> Panzerfaust </strong> </h2>
 
           <p> Weight : 2.9kg </p>
           <p> Range : 100m </p>
@@ -41,7 +40,7 @@
 
         <!--Panzershreck-->
         <div class="Pzrsch">
-          <h2> <mark> Panzerschreck </mark> </h2>
+          <h2> <strong> Panzerschreck </strong> </h2>
 
           <p> Weight : 5.1kg </p>
           <p> Range : 150m </p>
