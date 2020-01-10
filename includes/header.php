@@ -1,6 +1,7 @@
 <header role="header">
+  <div>
   <h1 class="title"> Il était un petit Panzer I devenu Panther !</h1>
-
+</div>
   <nav id="menu">
     <ul>
 
@@ -19,6 +20,6 @@
 
     </ul>
   </nav>
-  <header>
+</header>
 
     <!----------------------------------------------->

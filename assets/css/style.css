@@ -30,7 +30,7 @@
   }
 
 
-  header h1 {
+header h1 {
     padding-top: 40px;
     font-weight: bold;
     text-align: center;
@@ -184,22 +184,123 @@
 
  /*CVfrançais*/
 
- .panther{
+.matt{
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  color: #FFDAB9;
+  margin-top: 60px;
+}
+.tiger{
    width: 40%;
    height: 40%;
- }
-
+margin-left: 200px;
+margin-top: 80px;
+}
+.maisonCV{
+  text-align: right;
+  margin-right: 450px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.marge1{
+  margin-left: 150px;
+  margin-bottom: 15px;
+}
+.exp{
+  font-size: 30px;
+  font-family: fantasy;
+}
+.marge2{
+  margin-left: 180px;
+  margin-bottom: 15px;
+}
+.prcr{
+  font-size: 30px;
+  font-family: fantasy;
+}
+.marge3{
+  margin-left: 210px;
+  margin-bottom: 15px;
+}
+.lgus{
+  font-size: 30px;
+  font-family: fantasy;
+}
+.edlnCV{
+  text-align: right;
+  margin-bottom: 15px;
+}
+.stuka{
+  width: 40%;
+  height: 25%;
+  position: relative;
+  bottom: 100px; left: 400px;
+}
  /*Cv espagnol*/
 
+ .matis{
+   font-weight: bold;
+   text-align: center;
+   font-size: 40px;
+   color: #FFDAB9;
+   margin-top: 60px;
+ }
  .sldt{
-   width: 30%;
-   height: 30%;
+    width: 30%;
+    height: 40%;
+ margin-left: 150px;
+ margin-top: 80px;
+ opacity: 0.95;
+ }
+ .maisonCV{
+   text-align: right;
+   margin-right: 450px;
+   font-weight: bold;
+   font-size: 20px;
+ }
+ .marge1{
+   margin-left: 150px;
+   margin-bottom: 15px;
+ }
+ .exp{
+   font-size: 30px;
+   font-family: fantasy;
+ }
+ .marge2{
+   margin-left: 180px;
+   margin-bottom: 15px;
+ }
+ .prcr{
+   font-size: 30px;
+   font-family: fantasy;
+ }
+ .marge3{
+   margin-left: 210px;
+   margin-bottom: 15px;
+ }
+ .lgus{
+   font-size: 30px;
+   font-family: fantasy;
+ }
+ .edlnCV{
+   text-align: right;
+   margin-bottom: 15px;
+ }
+
+ .fatigue{
+   width: 40%;
+   height: 25%;
+   position: relative;
+   bottom: 100px; left: 500px;
+   text-align: center;
  }
   /*contact*/
 
   .imgomh{
     width: 40%;
     height: 40%;
+    text-align: center;
   }
 
   /*Inscription*/
@@ -217,3 +318,7 @@
   .fusee{
     width:40%;
     height: 40%;
+
+ /*footer*/
+
+footer {
