@@ -24,7 +24,9 @@ body::after {
   position: absolute;
   z-index: -1;
 }
+
 /*--Header--!*/
+
 header {
   margin-bottom: 25px;
 }
@@ -42,6 +44,7 @@ header h1 {
 nav ul li a{
   font-size: 22px;
 }
+
 #menu ul {
   margin:0;
   padding:0;
@@ -57,6 +60,7 @@ nav ul li a{
   background-color:black;
   width: 100%;
 }
+
 #menu li a {
   /*display:block;*/
   width:100px;
@@ -65,18 +69,23 @@ nav ul li a{
   padding:5px;
   color: #FFDAB9;
 }
+
 #menu li a:hover {
   color:#CD853F;
 }
+
 #menu ul li ul {
   display:none;
 }
+
 #menu ul li:hover ul {
   display:block;
 }
+
 #menu li:hover ul li {
   float:none;
 }
+
 #menu li ul {
   /*position:absolute;*/
 }
@@ -175,9 +184,11 @@ div .Pzrsch h2{
   margin-left: 200px;
   margin-bottom: 10px;
 }
+
 div h2 .Pzrsch .videoyt{
   font-size: 10px;
 }
+
 div .Pzrsch p{
   font-size: 20px;
   margin-left: 180px;
@@ -204,39 +215,48 @@ div .Pzrsch p{
   margin-left: 350px;
   color: #FFDAB9;
 }
+
 .montigre{
   margin-left: 172px;
 }
+
 .maisonCV{
   text-align: right;
   margin-right: 450px;
   font-weight: bold;
   font-size: 20px;
 }
+
 .marge1{
   margin-left: 150px;
   margin-bottom: 15px;
 }
+
 .exp{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .marge2{
   margin-left: 180px;
   margin-bottom: 15px;
 }
+
 .prcr{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .marge3{
   margin-left: 210px;
   margin-bottom: 15px;
 }
+
 .lgus{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .edlnCV{
   text-align: right;
   margin-bottom: 15px;
@@ -244,18 +264,21 @@ div .Pzrsch p{
   font-weight: bold;
   margin-right: 50px;
 }
+
 .stuka{
   width: 40%;
   height: 25%;
   position: relative;
   bottom: 50px; left: 400px;
 }
+
 .monstuka{
   margin-left: 650px;
   font-weight: bold;
   font-size: 15px;
   color: #FFDAB9;
 }
+
 /*Cv espagnol*/
 
 .matis{
@@ -265,6 +288,7 @@ div .Pzrsch p{
   color: #FFDAB9;
   margin-top: 60px;
 }
+
 .sldt{
   width: 30%;
   height: 40%;
@@ -272,36 +296,44 @@ div .Pzrsch p{
   margin-top: 80px;
   opacity: 0.95;
 }
+
 .maisonCV{
   text-align: right;
   margin-right: 450px;
   font-weight: bold;
   font-size: 20px;
 }
+
 .marge1{
   margin-left: 150px;
   margin-bottom: 15px;
 }
+
 .exp{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .marge2{
   margin-left: 180px;
   margin-bottom: 15px;
 }
+
 .prcr{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .marge3{
   margin-left: 210px;
   margin-bottom: 15px;
 }
+
 .lgus{
   font-size: 30px;
   font-family: fantasy;
 }
+
 .edlnCV{
   text-align: right;
   margin-bottom: 15px;
@@ -347,15 +379,17 @@ div .Pzrsch p{
 }
 .tel{
   font-family: fantasy;
-
 }
+
 .dasmsg{
   margin-left: 250px;
 }
+
 .msg{
   font-size: 20px;
   font-family: fantasy;
 }
+
 .clikclik{
   margin-left: 550px;
 
@@ -370,6 +404,7 @@ div .Pzrsch p{
   margin-top: 100px;
   margin-left: 150px;
 }
+
 .michelfield{
   margin-top: 20px;
   margin-left: 150px;
@@ -418,6 +453,7 @@ div .Pzrsch p{
 .cookies{
   margin-bottom: 10px;
 }
+
 .cookies h2{
   margin-left: 100px;
   font-size: 30px;
@@ -432,6 +468,7 @@ div .Pzrsch p{
   text-align: center;
 
 }
+
 div .cookies nav ul li{
   color: #c71585;
 }
@@ -447,9 +484,11 @@ div .cookies nav ul li{
   margin-bottom: 10px;
 
 }
+
 .parti{
   color: #c71585;
 }
+
 div .particuliers nav ul li{
   color: #c71585;
 }
@@ -461,22 +500,23 @@ div .particuliers nav ul li{
   margin-top: 20px;
   border: 1rem solid;
 }
+
 .encoreatt{
   font-weight: bold;
   text-align: center;
-
-
 }
+
 .relatives{
   margin-bottom: 40px;
 }
+
 .relatives h2{
   margin-left: 100px;
   font-size: 30px;
   text-align: center;
   margin-bottom: 10px;
-
 }
+
 div .relatives nav ul li{
   color: #c71585;
 }
