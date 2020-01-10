@@ -36,4 +36,9 @@
   </fieldset>
   <input type="hidden" name="frmContact" />
 
+  <audio autoplay loop; no repeat> <!--Evidemment le tout ne se fait pas en boucle. C'est qu'une mise en bouc ! -->
+    <source src="./assets/sounds/Welcome_to_Europe.mp3" type="audio/mpeg">
+      <source src="./assets/sounds/Welcome_to_Europe.mp3" type="audio/ogg">
+
+  </audio>
 </form>

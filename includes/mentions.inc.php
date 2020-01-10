@@ -45,7 +45,7 @@
 
 	<div class="attention">
 		<p>
-			<span>Attention</span>
+			<span class="encoreatt">Attention</span>
 		</p>
 		<p>
 			: le non-respect de ces obligations peut être sanctionné d'une peine de prison pouvant aller jusqu'à 1 an et de 75 000 € d'amende.
@@ -65,7 +65,7 @@
 				<li>Droits d'opposition, d'interrogation, d'accès et de rectification.</li>
 				<li>Au besoin, transferts de données à caractère personnel envisagés à destination d'un État n'appartenant pas à l'Union européenne.</li>
 				<li>Base juridique du traitement de données (c'est-à-dire ce qui autorise légalement le traitement : il peut s'agir du consentement des personnes concernées, du respect d'une obligation prévue par un texte, de l'exécution d'un contrat notamment).</li>
-				Droit d'introduire une réclamation auprès de la Cnil.</li>
+				<li>Droit d'introduire une réclamation auprès de la Cnil.</li>
 			</ul>
 		</nav>
 	</div>

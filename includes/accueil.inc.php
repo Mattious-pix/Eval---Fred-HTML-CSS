@@ -5,7 +5,7 @@
 	<div class="gnrl1">
 		<div class="chpprinc">
 			<h1 class="chp6">CHAPITRE VI :</h1>
-			<!---Mais qu'est ce donc que tout ceci ?--->
+			<!--Mais qu'est ce donc que tout ceci ?-->
 
 			<h2 class="princis"> Des principautés nouvelles acquises par les armes et par l’habileté de l’acquéreur.</h2>
 			<blockquote class="textchp" cite="https://fr.wikisource.org/wiki/Le_Prince/Texte_entier" >

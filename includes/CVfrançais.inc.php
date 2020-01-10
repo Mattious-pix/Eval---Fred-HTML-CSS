@@ -4,7 +4,12 @@
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
   </div>
 
-  <img src="./assets/img/giftiger.gif" class="tiger" title="phototigre"/>
+  <div class="imgtig">
+  <img src="./assets/img/giftiger.gif" class="tiger" title="phototigre" width="52%" height="52%"/>
+  <p class="montigre">
+   Venir avec au campus <'3'!
+  </p>
+</div>
 
   <address>
     <section class="maisonCV">Chez oim<br></br>
@@ -44,7 +49,11 @@
     <div class="edlnCV">
       <a href="./assets/doc/pdf/edlncv.pdf" download="EdlnCVwesh!"> Want to know more ?</a>
     </div>
-    <div>
+
+    <div class="imgstuk">
       <img src="./assets/img/stuka.gif" class="stuka">
+      <p class="monstuka">
+       	Sirènes de <a href="https://www.youtube.com/watch?v=LCB8ZVxKqyI" target="_blank">Jericho !</a>
+      </p>
     </div>
   </section>

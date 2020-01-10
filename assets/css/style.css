@@ -193,11 +193,17 @@ div .Pzrsch p{
   color: #FFDAB9;
   margin-top: 60px;
 }
-.tiger{
-  width: 40%;
-  height: 40%;
-  margin-left: 200px;
-  margin-top: 80px;
+
+.imgtig{
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  color: #FFDAB9;
+}
+.montigre{
+  margin-left: 172px;
 }
 .maisonCV{
   text-align: right;
@@ -238,9 +244,14 @@ div .Pzrsch p{
   width: 40%;
   height: 25%;
   position: relative;
-  bottom: 100px; left: 400px;
+  bottom: 10px; left: 400px;
 }
-
+.monstuka{
+  margin-left: 600px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #FFDAB9;
+}
 /*Cv espagnol*/
 
 .matis{
@@ -311,7 +322,7 @@ div .Pzrsch p{
 
 .kontact{
   margin-top: 20px;
-margin-left: 150px;
+  margin-left: 150px;
 }
 .munition{
   font-size: 20px;
@@ -355,7 +366,7 @@ margin-left: 150px;
 }
 .michelfield{
   margin-top: 20px;
-margin-left: 150px;
+  margin-left: 150px;
 }
 .amour{
   font-family: fantasy;
@@ -371,23 +382,94 @@ margin-left: 150px;
 }
 .clikins{
   margin-left: 150px;
-font-size: 20px;
+  font-size: 20px;
 }
 
 /*Mentions légales*/
 
-.mentleg{
-  font-size: 30px;
+div .mentleg h1{
+  font-size: 50px;
   text-align: center;
+  margin-top: 50px;
 }
+
 .fusee{
   position: relative;
   margin-left: 250px;
-  margin-top: 50px;
+  margin-top: 100px;
+  margin-bottom: 20px;
 }
-div .cookies h2{
-  margin-left: 100px;
-}
-  /*footer*/
 
-  footer {
+.cookies{
+  margin-bottom: 10px;
+}
+.cookies h2{
+  margin-left: 100px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+.mentcook{
+  color: #c71585;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+
+}
+div .cookies nav ul li{
+  color: #c71585;
+}
+
+.particuliers{
+  margin-bottom: 10px;
+}
+
+.particuliers h2{
+  margin-left: 100px;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+.parti{
+  color: #c71585;
+}
+div .particuliers nav ul li{
+  color: #c71585;
+}
+
+.attention{
+  margin-left: 100px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 1rem solid;
+}
+.encoreatt{
+  font-weight: bold;
+  text-align: center;
+
+
+}
+.relatives{
+  margin-bottom: 40px;
+}
+.relatives h2{
+  margin-left: 100px;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+div .relatives nav ul li{
+  color: #c71585;
+}
+
+/*footer*/
+
+footer {
+  font-size: 20px;
+  font-weight: bold;
+
+}
