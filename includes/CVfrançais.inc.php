@@ -4,15 +4,15 @@
     <h1>Mathieu Edl  <!--Ce qui est intéressant pour la photo dans la création html, c'est pour le référencment, car on peut mettre un titre à la photo--></h1>
   </div>
 
-    <img src="./assets/img/giftiger.gif" class="tiger" title="phototigre"/>
+  <img src="./assets/img/giftiger.gif" class="tiger" title="phototigre"/>
 
   <address>
-    <section class="maisonCV">Chez oim<br/>
-      <a href="mailto:alloallo@gmail;com.com"> contact</a></br> <!--Le problème c'est de risquer de se faire spamer de merde-->
-      <a href="tel:+33622232425"> Vorwärts 06 22 27 90 45 </a></br> <!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
+    <section class="maisonCV">Chez oim<br></br>
+      <a href="mailto:alloallo@gmail;com.com"> contact</a><br></br><!--Le problème c'est de risquer de se faire spamer de merde-->
+      <a href="tel:+33622232425"> Vorwärts 06 22 27 90 45 </a><!--Le problème c'est que le numéro de téléphone est visible de tous quand il y a le référencement. Donc le risque de recevoir des intenspestifs venant des pays de merde-->
     </address>
     <div class=marge1>
-      <h2 class="exp">Ausbildung</h2> <!--Même si on met plusieurs H1, ca ne change rien à la formation de la page. Et en plus ca permet de refnorcer le référencement-->
+      <h2 class="exp">Ausbildung</h2><br></br> <!--Même si on met plusieurs H1, ca ne change rien à la formation de la page. Et en plus ca permet de refnorcer le référencement-->
       <ul>
         <li>Référant Digital – N-Factory</li>
         - 09/2019-04/2020 - Rouen- FRANCE
@@ -25,7 +25,7 @@
       </ul>
     </div>
     <div class=marge2>
-      <h2 class="prcr">Kurs</h2>
+      <h2 class="prcr">Kurs</h2><br></br>
       <ul>
         <li>Grand gagnant de la belotte de Winchester. </li>
         <li>Découvreur du remède contre les ongles incarnés</li>
@@ -33,18 +33,18 @@
       </ul>
     </div>
     <div class=marge3>
-      <h2 class="lgus">Langues</h2>
-    <ul>
-      <li>Français : maternelle</li>
-      <li>Anglais : Confirmé </li>
-      <li>Espagnol: Intermédiaire</li>
-      <li>Grec : Notion.</li>
-    </ul>
-  </div>
-  <div class="edlnCV">
-    <a href="./assets/doc/pdf/edlncv.pdf"> Want to know more ?</a>
-  </div>
-  <div>
-    <img src="./assets/img/stuka.gif" class="stuka">
-  </div>  
-</section>
+      <h2 class="lgus">Langues</h2><br></br>
+      <ul>
+        <li>Français : maternelle</li>
+        <li>Anglais : Confirmé </li>
+        <li>Espagnol: Intermédiaire</li>
+        <li>Grec : Notion.</li>
+      </ul>
+    </div>
+    <div class="edlnCV">
+      <a href="./assets/doc/pdf/edlncv.pdf"> Want to know more ?</a>
+    </div>
+    <div>
+      <img src="./assets/img/stuka.gif" class="stuka">
+    </div>
+  </section>

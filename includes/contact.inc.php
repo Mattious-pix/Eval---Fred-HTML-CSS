@@ -4,18 +4,18 @@ if (isset($_POST['frmContact'])) {
   $prenom = checkInput($_POST['prenom']);
   $mail = checkInput($_POST['mail']);
   $tel = checkInput($_POST['tel']);
-  $msg = checkInput($_POST['msg']);
+  $mesg = checkInput($_POST['msg']);
   $erreur = array();
 
   if ($nom === "")
-    array_push($erreur, "Veuillez saisir votre nom");
+    array_push($erreur, "Le nom Bordel de merde");
   if ($prenom === "")
-    array_push($erreur, "Veuillez saisir un prénom");
+    array_push($erreur, "T'as honte de ton prénom");
   if ($mail === "")
-    array_push($erreur, "Veuillez saisir une adresse mail");
+    array_push($erreur, "Ca aussi ca mank");
     if ($tel === "")
-    array_push($erreur, "Veuillez saisir un numéro de téléphone");
-  if ($msg === "")
+    array_push($erreur, "Avoue, c'est celui du Berghoff !?!");
+  if ($mesg === "")
     array_push($erreur, "Geben Sie Ihre Nachrichten ein");
 
       if (count($erreur) > 0) {

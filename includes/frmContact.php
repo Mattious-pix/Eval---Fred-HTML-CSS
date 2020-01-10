@@ -1,34 +1,38 @@
 <form action="index.php?page=contact" method="post">
-  <img src="./assets/img/omaha.gif" class="imgomh" title="omaha"/>
 
-  <fieldset>
-    <legend class="munition">Öffne die Grenzen</legend>
+  <div class="imgomh">
+    <img src="./assets/img/omaha.gif" title="omaha" width="80%"/>
+  </div>
+
+  <fieldset class="kontact">
+    <legend class="munition">ÖFFNE DIE GREZEN</legend> <br></br>
     <div>
-      <label for="nom">Name :</label>
-      <input type="text" name="nom" class="nom" value="<?=$nom ?>" />
+      <label class="nom" for="nom">Name :</label>
+      <input type="text" name="nom" value="<?=$nom ?>" />
     </div>
     <div>
-      <label for="prenom">Nachname :</label>
-      <input type="text" name="prenom" class="prenom" value="<?=$prenom ?>" />
+      <label class="prenom" for="prenom">Nachname :</label>
+      <input type="text" name="prenom"  value="<?=$prenom ?>" />
     </div>
     <div>
-      <label for="mail">e-mail :</label>
-      <input type="mail" name="mail" class="mail" value="<?=$mail ?>" />
+      <label class="mail" for="mail">e-mail :</label>
+      <input type="mail" name="mail"  value="<?=$mail ?>" />
     </div>
     <div>
-      <label for="tel">Telefon :</label>
-      <input type="tel" name="tel" class="tel" value="<?=$mail ?>" />
+      <label class="tel" for="tel">Telefon :</label>
+      <input type="tel" name="tel"  value="<?=$mail ?>" />
     </div>
   </fieldset>
 
-  <fieldset>
+  <fieldset class="dasmsg">
     <div>
-      <label for="msg">Eine Nachricht:</label>
-      <textarea name="msg" class="msg"><?=$msg ?></textarea>
+      <label class="msg" for="msg">Eine Nachricht:</label>
+      <textarea name="msg" ><?=$mesg ?></textarea>
     </div>
-    <div>
-      <input type="submit" value="Drücken Sie den Auslöser" />
-    </div>
+  </fieldset>
+
+  <fieldset class="clikclik">
+    <input type="submit" value="Drücken Sie den Auslöser" />
   </fieldset>
   <input type="hidden" name="frmContact" />
 
