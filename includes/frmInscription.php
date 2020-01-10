@@ -19,8 +19,8 @@
   </fieldset>
 
   <audio autoplay loop; no repeat> <!-- En fait j'ai appris à le faire et j'ai grave kiffer -->
-  	<source src="./assets/sounds/mg42.mp3" type="audio/mpeg">
+    <source src="./assets/sounds/mg42.mp3" type="audio/mpeg">
       <source src="./assets/sounds/mg42.mp3" type="audio/ogg">
-  </audio>
+      </audio>
 
-</form>
+    </form>

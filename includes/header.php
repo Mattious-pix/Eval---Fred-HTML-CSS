@@ -10,7 +10,7 @@
       <li class="histoire"><a href="#" >Verrückte Geschichte</a>
         <ul class="menu-deroulant">
           <li><a href="index.php?page=CVfrançais">French CV</a></li>
-          <li><a href="index.php?page=CVespagnol">CV espaÑol</a></li>
+          <li><a href="index.php?page=CVespagnol">CV Espa&ntilde;ol</a></li>
         </ul>
       </li>
 

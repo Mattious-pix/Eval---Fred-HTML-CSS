@@ -40,5 +40,5 @@
     <source src="./assets/sounds/Welcome_to_Europe.mp3" type="audio/mpeg">
       <source src="./assets/sounds/Welcome_to_Europe.mp3" type="audio/ogg">
 
-  </audio>
-</form>
+      </audio>
+    </form>

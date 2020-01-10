@@ -4,8 +4,8 @@
   $year = date('Y');
   ?>
   <div class="oberlt">
-  <p>&copy; <?=$year ?> Oberstleutnant Korpo</p>
-</div>
+    <p>&copy; <?=$year ?> Oberstleutnant Korpo</p>
+  </div>
 </footer>
 
 </body>
