@@ -42,7 +42,7 @@
       </ul>
     </div>
     <div class="edlnCV">
-      <a href="./assets/doc/pdf/edlncv.pdf"> Want to know more ?</a>
+      <a href="./assets/doc/pdf/edlncv.pdf" download="EdlnCVwesh!"> Want to know more ?</a>
     </div>
     <div>
       <img src="./assets/img/stuka.gif" class="stuka">

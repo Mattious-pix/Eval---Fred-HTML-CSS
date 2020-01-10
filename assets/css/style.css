@@ -175,7 +175,9 @@ div .Pzrsch h2{
   margin-left: 200px;
   margin-bottom: 10px;
 }
-
+div h2 .Pzrsch .videoyt{
+  font-size: 10px;
+}
 div .Pzrsch p{
   font-size: 20px;
   margin-left: 180px;
@@ -341,33 +343,51 @@ margin-left: 150px;
   margin-left: 550px;
 
 }
+
 /*Inscription*/
 
 .imghtch{
   position: relative;
   width: 60%;
   height: 60%;
-  margin-top: 120px;
+  margin-top: 100px;
   margin-left: 150px;
 }
+.michelfield{
+  margin-top: 20px;
+margin-left: 150px;
+}
 .amour{
+  font-family: fantasy;
 
 }
 .monmail{
+  font-family: fantasy;
 
 }
 .monpass{
+  font-family: fantasy;
 
 }
+.clikins{
+  margin-left: 150px;
+font-size: 20px;
+}
+
 /*Mentions légales*/
 
-.bordel{
+.mentleg{
   font-size: 30px;
+  text-align: center;
 }
 .fusee{
-  width:40%;
-  height: 40%;
-
+  position: relative;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+div .cookies h2{
+  margin-left: 100px;
+}
   /*footer*/
 
   footer {
