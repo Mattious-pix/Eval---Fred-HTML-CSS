@@ -37,13 +37,13 @@ if (isset($_POST['frmContact'])) {
       echo "Geschlossene Tür";
     }
     else {
-      $sql = "INSERT INTO fredeval (nom, prenom, mail, tel, msg) VALUES  ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $tel ."', '" . $msg ."')";
+      $sql = "INSERT INTO fredeval (nom, prenom, mail, tel, msg) VALUES  ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $tel ."', '" . $mesg ."')";
       $query = $pdo->prepare($sql);
       $query->bindValue(':nom', $nom, PDO::PARAM_STR);
       $query->bindValue(':prenom', $prenom, PDO::PARAM_STR);
       $query->bindValue(':mail', $mail, PDO::PARAM_STR);
       $query->bindValue(':tel', $tel, PDO::PARAM_STR);
-      $query->bindValue(':msg', $msg, PDO::PARAM_STR);
+      $query->bindValue(':msg', $mesg, PDO::PARAM_STR);
       $query->execute();
       echo "Projektil gesendet";
     }

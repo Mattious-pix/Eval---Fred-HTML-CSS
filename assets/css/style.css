@@ -196,8 +196,8 @@ div .Pzrsch p{
 
 .imgtig{
   font-size: 15px;
-  width: 70%;
-  height: 70%;
+  width: 90%;
+  height: 90%;
   font-weight: bold;
   margin-top: 70px;
   margin-bottom: 20px;
@@ -241,15 +241,17 @@ div .Pzrsch p{
   text-align: right;
   margin-bottom: 15px;
   font-style: italic;
+  font-weight: bold;
+  margin-right: 50px;
 }
 .stuka{
   width: 40%;
   height: 25%;
   position: relative;
-  bottom: 10px; left: 400px;
+  bottom: 50px; left: 400px;
 }
 .monstuka{
-  margin-left: 600px;
+  margin-left: 650px;
   font-weight: bold;
   font-size: 15px;
   color: #FFDAB9;
@@ -303,6 +305,8 @@ div .Pzrsch p{
 .edlnCV{
   text-align: right;
   margin-bottom: 15px;
+  margin-right: 50px;
+  font-weight: bold;
 }
 
 .fatigue{
@@ -389,10 +393,19 @@ div .Pzrsch p{
 
 /*Mentions légales*/
 
-div .mentleg h1{
+.mentleg {
   font-size: 50px;
   text-align: center;
   margin-top: 50px;
+
+}
+.mentleg{
+  -webkite-animation: mentleg 5s infinite;
+  animation: mentleg 5s infinite;
+}
+@keyframes mentleg{
+  50% {transform: rotate(360deg);
+}
 }
 
 .fusee{
