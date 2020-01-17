@@ -127,6 +127,25 @@ nav ul li a{
   margin-top: 50px;
 }
 
+.slideshow {
+   width: 500px;
+   height: 250px;
+   overflow: hidden;
+   border: 3px solid #F2F2F2;
+     margin-left: 500px;
+}
+
+.slideshow ul {
+   width: 400%;
+   height: 200px;
+   padding:0; margin:0;
+   list-style: none;
+}
+
+.slideshow li {
+   float: left;
+}
+
 .caractech{
   margin-bottom: 30px;
   text-align: center;

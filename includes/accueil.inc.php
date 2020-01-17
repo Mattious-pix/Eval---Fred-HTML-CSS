@@ -1,4 +1,15 @@
 <!--Phrase d'introduction-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+	 $(function(){
+			setInterval(function(){
+				 $(".slideshow ul").animate({marginLeft:-350},800,function(){
+						$(this).css({marginLeft:0}).find("li:last").after($(this).find("li:first"));
+				 })
+			}, 3500);
+	 });
+</script>
 
 <div class="wrap">
 
@@ -20,7 +31,14 @@
 
 		<!--Caractéristiques-->
 
-		<div class="prsttn"><br>
+		<div class="slideshow">
+		    <ul>
+		        <li><img src="./assets/img/panzershreck.jpg" alt="" width="500" height="250" /></li>
+		        <li><img src="./assets/images/panzershreck2.jpg" alt="" width="500" height="250" /></li>
+		        <li><img src="./assets/images/panzershreck3.jpg" alt="" width="500" height="250" /></li>
+		     </ul>
+		</div><br>
+
 			<h2 class="caractech">Caractéristiques techniques !</h1>
 				<div class="panzershreck">
 					<img src="./assets/img/panzershreck.jpg" id="imgpz"/>
