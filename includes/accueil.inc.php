@@ -31,17 +31,16 @@
 
 		<!--Caractéristiques-->
 
-		<div class="slideshow">
-		    <ul>
-		        <li><img src="./assets/img/panzershreck.jpg" alt="" width="500" height="250" /></li>
-		        <li><img src="./assets/images/panzershreck2.jpg" alt="" width="500" height="250" /></li>
-		        <li><img src="./assets/images/panzershreck3.jpg" alt="" width="500" height="250" /></li>
-		     </ul>
-		</div><br>
-
 			<h2 class="caractech">Caractéristiques techniques !</h1>
 				<div class="panzershreck">
-					<img src="./assets/img/panzershreck.jpg" id="imgpz"/>
+
+							<div class="slideshow">
+							    <ul>
+							        <li><img src="./assets/img/panzershreck.jpg" alt="" width="500" height="250" /></li>
+							        <li><img src="./assets/img/panzershreck2.jpg" alt="" width="500" height="250" /></li>
+							        <li><img src="./assets/img/panzershreck3.jpg" alt="" width="500" height="250" /></li>
+							     </ul>
+							</div><br>
 					<p class="ssttrpz">
 						Ca envoi du lourd hein ! Feuer !
 					</p>
